@@ -4,7 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=canberkyolcu&label=Profile%20views&color=0e75b6&style=flat" alt="canberkyolcu" /> </p>
 
-- 🔭 I’m currently working on [Get Order!](https://store.steampowered.com/app/2666060/Get_Order/)
 
 - 🌱 I’m currently learning **Unity and C#**
 
